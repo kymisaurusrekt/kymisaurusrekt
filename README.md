@@ -2,7 +2,7 @@
 - 👀 I’m interested in sustainability, STEAM education, and project-based autodidactism.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me kymberli.lim@gmail.com
+- 📫 How to reach me kyminator@hotmail.com
 
 <!---
 kymisaurusrekt/kymisaurusrekt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
